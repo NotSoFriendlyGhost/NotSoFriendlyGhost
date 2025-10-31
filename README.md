@@ -9,6 +9,5 @@ What I'm learning: Always looking to expand my skills in advanced data structure
 Key Skills: Python, C++, Java, Arduino, Raspberry Pi, MySQL, Git, Project Management, Team Leadership
 
 Where to find me:
-[Digital Portfolio](casparchen.com)
-
+[Digital Portfolio](https://casparchen.com)
 
