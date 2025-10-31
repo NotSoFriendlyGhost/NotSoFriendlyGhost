@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Caspar
 
-<!--
-**NotSoFriendlyGhost/NotSoFriendlyGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school senior and developer passionate about building tools that solve real-world problems, from medical research to competitive robotics.
 
-Here are some ideas to get you started:
+What I'm building now: Leading my VEX Robotics team as Co-Founder and developing research tools for lymphoma and tinnitus studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm learning: Always looking to expand my skills in advanced data structures, data management, and mechatronics.
+
+Key Skills: Python, C++, Java, Arduino, Raspberry Pi, MySQL, Git, Project Management, Team Leadership
+
+Where to find me:
+casparchen.com
+
+
