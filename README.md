@@ -8,7 +8,7 @@
 -  Lead my VEX Robotics team (Co-Founder) for the VEX VRC competition  
 -  Developed research tools to support lymphoma and tinnitus studies
 -  Designed assistive eyewear to improve driver safety
--  Expanded on eyewear concept to develop glasses that assist reading comprehension in dyslexia patients
+-  Expanded on eyewear concept to develop glasses that assist reading comprehension for patients with dyslexia
 
 ---
 
