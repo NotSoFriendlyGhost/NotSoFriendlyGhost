@@ -1,20 +1,21 @@
 # Hi, I'm **Caspar**
 
- I'm a **high school senior** and **developer** passionate about creating tools that make a real-world impact — from **medical research** to **competitive robotics**.
+ I'm a freshman at Yale and developer passionate about creating tools that make a real-world impact — from medical research to competitive robotics.
 
 ---
 
-## What I'm Building
--  **Leading** my VEX Robotics team (**Co-Founder**) for the VEX VRC competition  
--  **Developing research tools** to support **lymphoma** and **tinnitus** studies  
+## What I've Worked On
+-  Lead my VEX Robotics team (Co-Founder) for the VEX VRC competition  
+-  Developed research tools to support lymphoma and tinnitus studies
+-  Designed assistive eyewear to improve driver safety
+-  Expanded on eyewear concept to develop glasses that assist reading comprehension in dyslexia patients
 
 ---
 
-##  What I'm Learning
-Currently exploring:
--  **Advanced data structures**  
--  **Data management systems**  
--  **Mechatronics and embedded systems**
+##  Currently Exploring
+-  Data Structures
+-  Database Management
+-  Machine Learning
 
 ---
 
@@ -28,9 +29,6 @@ Currently exploring:
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-###  Collaboration
- **Project Management** •  **Team Leadership** •  **Technical Mentorship**
 
 ---
 
